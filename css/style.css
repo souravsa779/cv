@@ -1,0 +1,84 @@
+.top-container {
+  background-color: #cdfffc;
+  position: relative;
+  padding-top: 100px;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  margin: 0 auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 562.5%;
+  color: #045762;
+}
+
+h2 {
+  font-family: 'Merriweather', serif;color: #fc8621;font-size: 1.5rem;
+}
+
+h3 {
+  font-family: 'Merriweather', serif;color: #fc8621;
+}
+
+p{font-weight: bold;color: #fc8621}
+
+
+
+.web {
+  text-decoration: underline;font-size: 2.5rem;
+}
+
+.bottom-cloud {
+  position: absolute;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.myimg{height: 400px;width: 300px;border-radius: 50%;}
+.electronics{height: 200px;width: 300px;}
+.gif{height: 200px;width: 300px;}
+.middle-container{background-color: #f9e0ae;}
+.rr{font-size: 2.5rem;font-weight: normal;color:#045762;}
+.skill-row{background-color:  #48426d;margin-top: 0;}
+.skills{background-color: #48426d;width: 30%;margin-left: 450px;}
+.hello{color:  #045762;}
+.p2{color: #045762;padding-bottom: 20px;}
+.profile{background-color: #cdfffc;padding-top: 50px;}
+.contact-me{background-color: #cdfffc;padding-bottom: 50px; }
+.bottom-container{background-color:  #f9e0ae;padding-top: 50px;padding-bottom: 50px;}
+.touch{color: #045762;padding-top: 40px;}
+.mymail{color: #045762;}
+.me{color: #045762;}
+hr{border-style: dotted;border-color: #045762 ;border-width: thick;width: 50%;border-bottom:none;margin: 50px auto;}
+
+
+.btn {
+  -webkit-border-radius: 60;
+  -moz-border-radius: 60;
+  border-radius: 60px;
+  text-shadow: 3px 1px 3px #666666;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 14px;
+  background: #34a5d9;
+  padding: 10px 20px 10px 20px;
+  border: solid #e9eef2 3px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  text-decoration: none;
+}
+
+
+.footer-link{color:  #045762; margin: 10px 20px;text-decoration:overline;;font-weight: bolder;}
+.footer-link:hover{color: white}
